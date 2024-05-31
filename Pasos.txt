@@ -1,0 +1,66 @@
+Repos a utilizar:
+API: https://randomuser.me/api
+APIS: https://publicapis.dev/
+Iconos svg: https://www.svgrepo.com/
+Avatares: https://unavatar.io/#/
+Loaders: https://css-loaders.com/
+Wiki react: https://www.reactjs.wiki/
+React UI: https://v2.chakra-ui.com/
+React UI: https://tailblocks.cc/
+
+- Utilizar -
+
+- CONCEPTOS -
+JSX: Html + javascript
+Componentes: dividir la pagina en pequeñas partes
+Props: son los datos que se entregan al componente
+Estado: son los eventos o actualizacion a una variable                                                         
+Eventos navegador: como el drag, el hover, etc.
+Manejo de estados:
+	- Context API:
+	- Redux Toolkit: biblioteca aparte, permite manejar estados globales (aplicaciones robustas)	
+	- Zustands: para aplicaciones basicas
+Hooks: funciones preinstaladas para controlas las funciones en react
+	(useState,useEffect,useContext,useReducer)
+* Bibliotecas complementarias *
+	- React Tanstack query: fetch de datos y guardarlos en el cache
+		- fetch - axios
+	- React Tanstack table: 
+* UI Components Libraries *
+	-  Material UI
+	- React Bootstrap
+	- Chakra UI
+	- TailwindCSS
+* Servicios nube - Backend as a service *
+	- Firebase
+	- Supabase
+	- AWS Amplify
+	- Graphbase
+	- Pocketbase
+* Headless CMS * (por ej: Wordpress) le podemos dar acceso al cliente con un rol
+	- Strapi 
+	- Sanity
+	- Contentful
+
+* Testing *
+	- React testing library
+	- Puppeteer o playwright
+	- Jest
+	- Vitest
+
+1- Instalar node.js latest
+2- Crear un repositorio en git para poder subir nuestro proyecto
+3- Utilizaremos vite (biblioteca que empaqueta todo lo que es react)
+    - npm create vite@latest
+4- Creamos una carpeta principal por ej: proyectos y dentro de ella iremos creando varios proyectos para entender react
+	- npm init -y (para iniciar las dependencias)
+
+* se deben configurar el user/email *
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+
+5- Conectamos la carpeta principal "proyectos" con git
+	- git init
+	- git remote add origin https://github.com/ProfePanshoots/AprendiendoReact.git
+
+	
