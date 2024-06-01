@@ -7,6 +7,8 @@ Loaders: https://css-loaders.com/
 Wiki react: https://www.reactjs.wiki/
 React UI: https://v2.chakra-ui.com/
 React UI: https://tailblocks.cc/
+Emoticones html: https://getemoji.com/
+Configurar md: https://pandao.github.io/editor.md/en.html
 
 - Utilizar -
 
@@ -62,5 +64,9 @@ git config --global user.email "MY_NAME@example.com"
 5- Conectamos la carpeta principal "proyectos" con git
 	- git init
 	- git remote add origin https://github.com/ProfePanshoots/AprendiendoReact.git
-
+6- Para una estructura un como mas organizada vamos a crear la carpeta components:
+	- dentro de components creamos:
+		- carpeta ui: para los componentes generales
+		- carpeta empresa: componentes para empleados
+		- carpeta principal: componentes para la page principal
 	
