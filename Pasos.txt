@@ -9,6 +9,9 @@ React UI: https://v2.chakra-ui.com/
 React UI: https://tailblocks.cc/
 Emoticones html: https://getemoji.com/
 Configurar md: https://pandao.github.io/editor.md/en.html
+Toast:
+ - Sonner: https://sonner.emilkowal.ski/
+ - SweetAlert2: https://sweetalert2.github.io/
 
 - Utilizar -
 
@@ -50,6 +53,17 @@ Hooks: funciones preinstaladas para controlas las funciones en react
 	- Jest
 	- Vitest
 
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+
+
+
+
+Crear y ejecutar:
+npm create vite@latest
+npm i o npm install
+npm run dev
+
+
 1- Instalar node.js latest
 2- Crear un repositorio en git para poder subir nuestro proyecto
 3- Utilizaremos vite (biblioteca que empaqueta todo lo que es react)
@@ -69,4 +83,39 @@ git config --global user.email "MY_NAME@example.com"
 		- carpeta ui: para los componentes generales
 		- carpeta empresa: componentes para empleados
 		- carpeta principal: componentes para la page principal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ProfePanshoots/AprendiendoReact.git
+git push -u origin main
+
+git remote add origin https://github.com/ProfePanshoots/AprendiendoReact.git
+git branch -M main
+git push -u origin main
 	

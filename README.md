@@ -43,15 +43,41 @@
     - Preparación para producción
     - Despliegue en servicios como Vercel, Netlify, GitHub Pages
 
-## Instalación
+## Instalación:
+
+Para comenzar a trabajar con React necesitamos los siguientes requerimientos:
+
+1. **IDE**
+    - Visual Studio Code
+    - Sublimetext
+
+2. **Node.js**
+    - Necesitamos node para ejecutar los comandos, descargar la versión LTS
+
+3. **Extensiones para el explorador**
+    - React Developer Tools
+
+4. **Extensiones para el VSCode**
+    - ES7 + React/Redux/React-Native snippets (autocompleta code)
+    - Prettier (identa el code automaticamente)
+    - Material Icon Theme (agrega iconos a los archivos)
+    - Panda Theme (cambia el estilo)
+    - htmltagwrap (trabaja con toda las etiquetas html)
+    - Auto Rename Tag (cambia las etiquetas automaticamente)
+    - Live Share (para trabajar colaborativamente)
+    - Live Server (levanta servidor)
+    - Thunder Client (trabaja con las APIS)
+
+
+## Utilizar el repositorio
 
 Para comenzar a trabajar con el código del curso, sigue estos pasos:
 
 1. **Clona el repositorio:**
 
     ```bash
-    git clone https://github.com/tu-usuario/curso-react.git
-    cd curso-react
+    git clone https://github.com/ProfePanshoots/AprendiendoReact.git
+    cd AprendiendoReact
     ```
 
 2. **Instala las dependencias:**
@@ -67,7 +93,7 @@ Para comenzar a trabajar con el código del curso, sigue estos pasos:
 1. **Ejecuta el servidor de desarrollo:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     Esto abrirá la aplicación en `http://localhost:3000`.
@@ -75,16 +101,13 @@ Para comenzar a trabajar con el código del curso, sigue estos pasos:
 2. **Explora los ejemplos y ejercicios:**
 
     El curso está dividido en diferentes carpetas correspondientes a cada sección del roadmap. Navega por ellas para encontrar ejemplos prácticos y ejercicios.
+    Cabe mencionar que el orden de los ejercicios no corresponde al Roadmap mencionado, este es solo para que se puedan organizar en su estudio.
 
-3. **Realiza los ejercicios:**
-
-    Cada sección contiene ejercicios diseñados para reforzar los conceptos aprendidos. Asegúrate de completarlos para mejorar tu comprensión.
-
-4. **Consulta la documentación:**
+3. **Consulta la documentación:**
 
     La documentación oficial de React es una excelente fuente de información adicional. Visítala en [reactjs.org](https://reactjs.org/).
 
-5. **Participa en la comunidad:**
+4. **Participa en la comunidad:**
 
     Únete a foros y grupos de discusión sobre React para compartir tus experiencias y aprender de otros desarrolladores.
 
