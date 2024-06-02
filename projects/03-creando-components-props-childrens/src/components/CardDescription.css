@@ -1,0 +1,7 @@
+.card-description {
+    font-weight: bold;
+    color: #333;
+    background-color: #f0f0f0; /* Color de fondo para destacar */
+    padding: 8px; /* Espaciado interno para mejor legibilidad */
+    border-radius: 4px; /* Bordes redondeados para un mejor estilo */
+  }
